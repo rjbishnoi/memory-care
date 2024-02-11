@@ -1,0 +1,7 @@
+echo "# memory-care" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/rjbishnoi/memory-care.git
+git push -u origin main
